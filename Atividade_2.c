@@ -4,7 +4,6 @@
 int main() {
     float num1, num2, num3, soma;
 
-    // Solicita os três números
     printf("Digite o primeiro numero: ");
     scanf("%f", &num1);
 
