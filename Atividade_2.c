@@ -5,7 +5,6 @@
         printf("Digite o primeiro numero:");
         scanf("%f", &num1);
 
-
         printf("Digite o segundo numero:");
         scanf("%f", &num2);
 
