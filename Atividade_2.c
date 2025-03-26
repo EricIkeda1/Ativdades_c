@@ -1,3 +1,4 @@
+//Algoritmo para receber 3 numeros reais e imprimir a soma de todos eles
 #include<stdio.h>
     int main(){
         float num1, num2, num3, soma;
